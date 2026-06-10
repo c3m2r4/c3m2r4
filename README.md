@@ -1,183 +1,172 @@
-# Muhammed Camara
+# 🛡️ Muhammed Camara
 
-**Cybersecurity Engineer | Penetration Tester | Software Developer | DevSecOps Enthusiast**
-
-📍 Tallinding, The Gambia  
-📧 c3m2r4@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/muhammed-camara-2227352a5  
-🔗 GitHub: https://github.com/c3m2r4  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer+%7C+Penetration+Tester+%7C+DevSecOps;IT+Risk+Officer+at+Bloom+Bank+Africa;Breaking+systems+ethically+to+build+secure+ones" />
+</p>
 
 ---
 
-## Professional Summary
+## 🧨 Cybersecurity Mindset
 
-Cybersecurity and software engineering professional with hands-on experience in penetration testing, IT risk management, secure software development, and DevSecOps practices.
+> "Security is not a product, it's a process."
 
-I specialize in identifying security vulnerabilities across web applications, APIs, mobile applications, and enterprise environments, and translating findings into practical remediation strategies.
+I specialize in **offensive security, IT risk, and secure system architecture**, focusing on real-world exploitation and defense.
 
-Passionate about building secure systems, automating security processes, and developing real-world offensive and defensive security skills through labs and research.
-
----
-
-## Core Competencies
-
-- Web Application Security & Penetration Testing  
-- API Security Testing (REST / Mobile Backends)  
-- Mobile Application Security Analysis (Android)  
-- Active Directory Security & Attack Simulation  
-- DevSecOps & CI/CD Security Integration  
-- Vulnerability Management & Risk Assessment  
-- Security Monitoring & Threat Detection  
+- 🏦 IT Risk & Cybersecurity Officer — Bloom Bank Africa  
+- 🕵️ Penetration Tester (Web / API / Mobile / AD)  
+- ⚙️ DevSecOps & Security Automation Engineer  
+- 🏠 Homelab builder & red team researcher  
+- 💻 Full-stack developer (security-first mindset)
 
 ---
 
-## Tools & Technologies
+## 🛰️ Visitor Counter
 
-**Security Tools**  
-Burp Suite, Metasploit, Nessus, MobSF, BloodHound, Wazuh, Security Onion
-
-**Programming & Scripting**  
-Python, JavaScript, PHP, Bash
-
-**Frameworks & Libraries**  
-Laravel, Node.js, Express.js, React
-
-**Infrastructure & Platforms**  
-Linux (Advanced), Windows Server, Active Directory, Docker, Kubernetes (Basic)
-
-**Observability & Monitoring**  
-Prometheus, Grafana, Uptime Kuma
-
-**AI & Automation**  
-Ollama (local AI for security automation and log analysis)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=c3m2r4&label=Profile%20Views&color=00f7ff&style=flat" />
+</p>
 
 ---
 
-## Professional Experience
+## 📊 GitHub Analytics
 
-### IT Risk & Cybersecurity Officer  
-**Bloom Bank Africa** | March 2025 – Present  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c3m2r4&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-- Conduct vulnerability assessments across 70+ enterprise systems  
-- Perform security testing on APIs and mobile applications  
-- Develop and maintain risk and security compliance frameworks aligned with ISO 27001 and NIST  
-- Support remediation tracking and security reporting for management and technical teams  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c3m2r4&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-### Software Developer  
-**The Web Way** | November 2023 – Present  
-
-- Develop secure full-stack web applications and APIs  
-- Implement encryption and secure coding best practices  
-- Manage Linux-based production and staging environments  
-- Collaborate on system architecture and backend optimization  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c3m2r4&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### Freelance Penetration Tester  
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c3m2r4&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced Red Teaming & Evasion Techniques  
+- Cloud Security (AWS / Azure attack paths)  
+- AI Security & LLM exploitation (prompt injection, data leakage)  
+- Zero Trust Architecture  
+- Advanced Active Directory attacks  
+
+---
+
+## 🧰 Tech Stack
+
+### 🔐 Security Tools
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-blue?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-red?style=for-the-badge)
+![Wazuh](https://img.shields.io/badge/Wazuh-darkblue?style=for-the-badge)
+![BloodHound](https://img.shields.io/badge/BloodHound-black?style=for-the-badge)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+
+---
+
+## 💼 Experience
+
+### 🏦 IT Risk & Cybersecurity Officer
+**Bloom Bank Africa** | 2025 – Present  
+- Enterprise vulnerability management (70+ systems)  
+- API & mobile application security testing  
+- ISO 27001 / NIST risk frameworks  
+
+### 💻 Software Developer
+**The Web Way** | 2023 – Present  
+- Secure backend & API development  
+- Linux server hardening & deployment  
+
+### 🕵️ Freelance Pentester
 **Independent** | 2019 – Present  
-
-- Perform security assessments for web, mobile, cloud, and infrastructure systems  
-- Identify vulnerabilities and provide remediation guidance  
-- Conduct manual and automated security testing  
+- Web, mobile, cloud penetration testing  
+- Vulnerability reporting & exploitation validation  
 
 ---
 
-### DevSecOps Consultant  
-**Independent** | 2024 – Present  
+## 🚀 Featured Projects
 
-- Integrate security practices into CI/CD pipelines  
-- Automate vulnerability scanning and compliance checks  
-- Improve deployment security and infrastructure hardening  
-
----
-
-## Selected Projects
-
-### Mobile Banking Security Assessment  
-Conducted static and dynamic analysis of a mobile banking application, identifying authentication, encryption, and permission-based vulnerabilities.
-
-### Banking API Security Testing  
-Performed penetration testing on staging APIs, identifying injection flaws and access control issues, with remediation recommendations.
-
-### Active Directory Attack Simulation Lab  
-Built an enterprise-style AD environment to simulate privilege escalation, lateral movement, and attack path analysis using BloodHound.
-
-### AI Security Assistant (Ollama-based)  
-Developed a local AI system for summarizing vulnerability reports and analyzing security logs while maintaining offline data privacy.
-
-### Career Development Community Platform  
-https://cdcommunity.org/  
-Full-stack Laravel-based platform featuring dashboards, learning modules, and analytics systems.
-
-### WWCG Consulting Platform  
-Scalable secure application with client management portals, training modules, and hardened backend architecture.
+- 🔐 Mobile Banking Security Analysis  
+- 🌐 Banking API Penetration Testing  
+- 🧠 Active Directory Attack Simulation Lab  
+- 🤖 Ollama AI Security Assistant (offline vuln analysis)  
+- 📚 Career Development Community → https://cdcommunity.org/  
+- 🏢 WWCG Consulting Platform  
 
 ---
 
-## Homelab & Security Research Environment
+## 🏠 Homelab (Mini Cyber Range)
 
-Enterprise-style security lab used for research, testing, and simulations:
-
-- **SIEM & Monitoring:** Wazuh, Security Onion  
-- **Observability:** Prometheus, Grafana, Uptime Kuma  
-- **Active Directory Lab:** Privilege escalation and attack path simulation  
-- **AI Integration:** Local Ollama models for security automation  
-- **Infrastructure:** Hardened Linux servers, web stacks, and isolated test environments  
-
----
-
-## Certifications & Education
-
-- Google Cybersecurity Professional Certificate (2024)  
-- Computing Science Level 4 (2024)  
-- Computing Science Level 5 (In Progress, 2025)  
-- Computing Science Level 6 (Planned, 2026)  
-- Data Science Bootcamp (2023)  
+```bash
+SIEM:        Wazuh + Security Onion
+Monitoring:  Prometheus + Grafana + Uptime Kuma
+AD Lab:      Attack simulation + privilege escalation
+AI:          Ollama local security assistant
+Infra:       Hardened Linux + isolated test networks
+```
 
 ---
 
-## Achievements
+## 💀 CTF Performance
 
-- 1st Place — ECOWAS CTF National Hacking Competition (2021)  
-- Finalist — ECOWAS CTF International Competition (2023, Togo)  
-
----
-
-## Communities
-
-### Terminal Titans  
-Security research and penetration testing collective focused on:
-- Web application security  
-- Capture The Flag competitions  
-- Security workshops and training  
-
-### GSCA (Security Research Group)  
-- Hardware hacking and research  
-- Cybersecurity training initiatives  
-- Annual security camps and workshops  
+* 🥇 1st Place — ECOWAS National CTF (2021)
+* 🏁 Finalist — ECOWAS International CTF (2023, Togo)
+* 🧩 Active CTF participant (web, pwn, crypto, forensics)
 
 ---
 
-## Languages
+## 🌍 Languages
 
-- English  
-- Wolof  
-- Mandinka  
-
----
-
-## Philosophy
-
-> “Be the change you wish to see in the world.” — Mahatma Gandhi  
+* English 🇬🇧
+* Wolof 🇸🇳
+* Mandinka 🇬🇲
 
 ---
 
-## Contact
+## 📫 Connect With Me
 
-Open to collaboration, cybersecurity research, and security engineering opportunities.
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammed-camara-2227352a5">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:c3m2r4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/c3m2r4">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
-📧 Email: c3m2r4@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/muhammed-camara-2227352a5  
-🔗 GitHub: https://github.com/c3m2r4  
+---
+
+## 🧩 Pinned Repo Strategy (IMPORTANT)
+
+Pin these on GitHub for maximum recruiter impact:
+
+* 🔐 **Mobile App Security Analysis**
+* 🌐 **API Pentesting Toolkit / Reports**
+* 🧠 **Active Directory Attack Lab**
+* 🤖 **Ollama Security Automation Tool**
+* ⚙️ **DevSecOps CI/CD Security Pipeline**
+* 🏢 **Enterprise Risk Dashboard / Scripts**
+
+---
+
+## ⚡ Final Quote
+
+> "I don't just find vulnerabilities — I build systems that stop them from existing."
