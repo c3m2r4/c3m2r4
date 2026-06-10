@@ -1,123 +1,183 @@
-# yo, i'm muhammed 👋
+# Muhammed Camara
 
-cybersecurity & software dev vibes | penetration tester | homelab enthusiast
+**Cybersecurity Engineer | Penetration Tester | Software Developer | DevSecOps Enthusiast**
 
-📍 tallinding, the gambia | 📧 c3m2r4@gmail.com | [linkedin](https://www.linkedin.com/in/muhammed-camara-2227352a5)
-
----
-
-## what i do
-
-securing banks, testing apis, breaking stuff (ethically 😅), building secure apps. basically i make sure your digital life doesn't get hacked.
-
-also into devsecops, threat hunting, and setting up nerdy homelab environments just for fun.
+📍 Tallinding, The Gambia  
+📧 c3m2r4@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/muhammed-camara-2227352a5  
+🔗 GitHub: https://github.com/c3m2r4  
 
 ---
 
-## tools & tech i mess with
+## Professional Summary
 
-**security:** burp suite, metasploit, nessus, mobsf, bloodhound, wazuh, security onion
+Cybersecurity and software engineering professional with hands-on experience in penetration testing, IT risk management, secure software development, and DevSecOps practices.
 
-**languages:** php, javascript, python, bash
+I specialize in identifying security vulnerabilities across web applications, APIs, mobile applications, and enterprise environments, and translating findings into practical remediation strategies.
 
-**frameworks:** laravel, node.js, express, react
-
-**infrastructure:** linux, windows server, active directory, docker, kubernetes basics
-
-**monitoring:** prometheus, grafana, uptime kuma
-
-**ai stuff:** ollama for security automation
+Passionate about building secure systems, automating security processes, and developing real-world offensive and defensive security skills through labs and research.
 
 ---
 
-## current gigs 🔨
+## Core Competencies
 
-- **IT Risk & Cybersecurity Officer** @ Bloom Bank Africa (mar 2025 - now)
-  - running vuln assessments across 70+ systems
-  - testing apis and mobile apps for weak spots
-  - building security plans aligned with iso 27001 & nist
-  
-- **Software Developer** @ The Web Way (nov 2023 - ongoing)
-  - building apis and full-stack apps
-  - making sure everything's encrypted & secure
-  - managing linux servers
-
-- **Freelance Pentester** (since 2019)
-  - testing web, mobile, cloud, hardware
-  - finding vulnerabilities before the bad guys do
-
-- **DevSecOps Consultant** (since 2024)
-  - integrating security into pipelines
-  - automating compliance stuff
+- Web Application Security & Penetration Testing  
+- API Security Testing (REST / Mobile Backends)  
+- Mobile Application Security Analysis (Android)  
+- Active Directory Security & Attack Simulation  
+- DevSecOps & CI/CD Security Integration  
+- Vulnerability Management & Risk Assessment  
+- Security Monitoring & Threat Detection  
 
 ---
 
-## projects i've done
+## Tools & Technologies
 
-**Mobile Banking App Security** — found vulnerabilities in auth, encryption, permissions. did the whole static/dynamic analysis thing.
+**Security Tools**  
+Burp Suite, Metasploit, Nessus, MobSF, BloodHound, Wazuh, Security Onion
 
-**Banking API Testing** — pentested staging apis, tested injection vulnerabilities, gave remediation advice.
+**Programming & Scripting**  
+Python, JavaScript, PHP, Bash
 
-**Active Directory Lab** — built a fake enterprise AD environment, did privilege escalation, lateral movement stuff. used bloodhound to map attack paths.
+**Frameworks & Libraries**  
+Laravel, Node.js, Express.js, React
 
-**Ollama AI Security Assistant** — built a local ai system to summarize vuln reports and analyze logs. keeps sensitive data offline.
+**Infrastructure & Platforms**  
+Linux (Advanced), Windows Server, Active Directory, Docker, Kubernetes (Basic)
 
-**Career Development Community (CDC)** — [cdcommunity.org](https://cdcommunity.org/) - full-stack laravel platform with courses, dashboards, analytics.
+**Observability & Monitoring**  
+Prometheus, Grafana, Uptime Kuma
 
-**WWCG Consulting Platform** — scalable app with client portals, training, secure backend.
-
----
-
-## homelab & security playground 🏠
-
-got a whole enterprise-grade security lab running:
-
-- **SIEM/Monitoring:** wazuh + security onion for threat detection
-- **Observability:** prometheus → grafana dashboards + uptime kuma
-- **AD Testing:** windows server with privilege escalation simulations
-- **AI Integration:** local ollama models for security workflows
-- **Infrastructure:** linux servers, web stacks, databases, everything hardened
-
-basically a mini version of what real enterprises run
+**AI & Automation**  
+Ollama (local AI for security automation and log analysis)
 
 ---
 
-## certs & awards
+## Professional Experience
 
-✅ google cybersecurity professional (2024)  
-✅ computing science level 4 (2024)  
-⏳ computing science level 5 (2025)  
-⏳ computing science level 6 (2026)  
-✅ data science bootcamp (2023)
+### IT Risk & Cybersecurity Officer  
+**Bloom Bank Africa** | March 2025 – Present  
 
-🏆 **1st place** - ECOWAS CTF National Hacking Competition (2021)  
-🏆 **Qualified** - ECOWAS CTF International Hacking Competition World Final (2023, togo)
-
----
-
-## communities i'm part of
-
-**Terminal Titans** — underground hacker team  
-- web app pentesting | hacking competitions | hosting hacking camps
-
-**GSCA** — hacking & security research  
-- hardware hacking | training wannabe hackers | annual hacking camp
+- Conduct vulnerability assessments across 70+ enterprise systems  
+- Perform security testing on APIs and mobile applications  
+- Develop and maintain risk and security compliance frameworks aligned with ISO 27001 and NIST  
+- Support remediation tracking and security reporting for management and technical teams  
 
 ---
 
-## random stuff
+### Software Developer  
+**The Web Way** | November 2023 – Present  
 
-languages: english 🇬🇧, wolof 🇸🇳, mandinka 🇬🇲
-
-philosophy: "be the change you want to see in the world" - gandhi
+- Develop secure full-stack web applications and APIs  
+- Implement encryption and secure coding best practices  
+- Manage Linux-based production and staging environments  
+- Collaborate on system architecture and backend optimization  
 
 ---
 
-## let's connect 🤝
+### Freelance Penetration Tester  
+**Independent** | 2019 – Present  
 
-hit me up if you wanna:
-- collab on security projects
-- discuss hacking & cybersecurity
-- talk tech & building cool stuff
+- Perform security assessments for web, mobile, cloud, and infrastructure systems  
+- Identify vulnerabilities and provide remediation guidance  
+- Conduct manual and automated security testing  
 
-[linkedin](https://www.linkedin.com/in/muhammed-camara-2227352a5) | [github](https://github.com/c3m2r4) | c3m2r4@gmail.com
+---
+
+### DevSecOps Consultant  
+**Independent** | 2024 – Present  
+
+- Integrate security practices into CI/CD pipelines  
+- Automate vulnerability scanning and compliance checks  
+- Improve deployment security and infrastructure hardening  
+
+---
+
+## Selected Projects
+
+### Mobile Banking Security Assessment  
+Conducted static and dynamic analysis of a mobile banking application, identifying authentication, encryption, and permission-based vulnerabilities.
+
+### Banking API Security Testing  
+Performed penetration testing on staging APIs, identifying injection flaws and access control issues, with remediation recommendations.
+
+### Active Directory Attack Simulation Lab  
+Built an enterprise-style AD environment to simulate privilege escalation, lateral movement, and attack path analysis using BloodHound.
+
+### AI Security Assistant (Ollama-based)  
+Developed a local AI system for summarizing vulnerability reports and analyzing security logs while maintaining offline data privacy.
+
+### Career Development Community Platform  
+https://cdcommunity.org/  
+Full-stack Laravel-based platform featuring dashboards, learning modules, and analytics systems.
+
+### WWCG Consulting Platform  
+Scalable secure application with client management portals, training modules, and hardened backend architecture.
+
+---
+
+## Homelab & Security Research Environment
+
+Enterprise-style security lab used for research, testing, and simulations:
+
+- **SIEM & Monitoring:** Wazuh, Security Onion  
+- **Observability:** Prometheus, Grafana, Uptime Kuma  
+- **Active Directory Lab:** Privilege escalation and attack path simulation  
+- **AI Integration:** Local Ollama models for security automation  
+- **Infrastructure:** Hardened Linux servers, web stacks, and isolated test environments  
+
+---
+
+## Certifications & Education
+
+- Google Cybersecurity Professional Certificate (2024)  
+- Computing Science Level 4 (2024)  
+- Computing Science Level 5 (In Progress, 2025)  
+- Computing Science Level 6 (Planned, 2026)  
+- Data Science Bootcamp (2023)  
+
+---
+
+## Achievements
+
+- 1st Place — ECOWAS CTF National Hacking Competition (2021)  
+- Finalist — ECOWAS CTF International Competition (2023, Togo)  
+
+---
+
+## Communities
+
+### Terminal Titans  
+Security research and penetration testing collective focused on:
+- Web application security  
+- Capture The Flag competitions  
+- Security workshops and training  
+
+### GSCA (Security Research Group)  
+- Hardware hacking and research  
+- Cybersecurity training initiatives  
+- Annual security camps and workshops  
+
+---
+
+## Languages
+
+- English  
+- Wolof  
+- Mandinka  
+
+---
+
+## Philosophy
+
+> “Be the change you wish to see in the world.” — Mahatma Gandhi  
+
+---
+
+## Contact
+
+Open to collaboration, cybersecurity research, and security engineering opportunities.
+
+📧 Email: c3m2r4@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/muhammed-camara-2227352a5  
+🔗 GitHub: https://github.com/c3m2r4  
