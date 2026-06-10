@@ -1,4 +1,4 @@
-# 🔥 SYSTEM BOOT SEQUENCE INITIATED
+# 🛡️ Muhammed Camara
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -13,9 +13,7 @@
 ║              🔐 CYBERSECURITY OPERATIONS CENTER v2.0.1 🔐                   ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
-```
 
-```
 [████████████████████████████████████████████████████████████] 100%
 
 ✓ BIOS INITIALIZED
@@ -24,334 +22,230 @@
 ✓ THREAT DETECTION ONLINE
 ✓ PENETRATION TESTING SUITE READY
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━��━━━
 SYSTEM OPERATOR: MUHAMMED CAMARA
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🎯 ROLE MATRIX:
-   ├─ 🛡️  IT Risk & Cybersecurity Engineer (Banking & Fintech)
-   ├─ 💻 Full-Stack Software Developer
-   ├─ 🔍 Penetration Tester (Web | Mobile | Cloud | Hardware)
-   └─ 🏴‍☠️  Security Researcher & Ethical Hacker
-
-📍 LOCATION: C8mm+GJW, Tallinding, KM, The Gambia
-📞 CONTACT:   +220 3243033
-📧 EMAIL:     c3m2r4@gmail.com
-🌐 GITHUB:    https://github.com/c3m2r4
-🔗 LINKEDIN:  https://www.linkedin.com/in/muhammed-camara-2227352a5
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-> **"Be the change that you want to see in the world." — Mahatma Gandhi**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=IT+Risk+%26+Cybersecurity+Engineer+%7C+Banking+%26+Fintech+Focus;Penetration+Tester+%7C+Software+Developer+%7C+DevSecOps;Building+secure+systems+and+breaking+them+ethically" />
+</p>
 
 ---
 
-## 📊 LIVE DASHBOARD
+## 📍 Identity
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║ 🎖️  OPERATIONAL STATUS                                            ║
-├────────────────────────────────────────────────────────────────────┤
-│                                                                    │
-│  ◆ Vulnerabilities Identified:        [████░░░░░░] 42%            │
-│  ◆ Systems Secured:                   [██████░░░░] 65%            │
-│  ◆ Exploits Mitigated:                [███████░░░] 78%            │
-│  ◆ Uptime:                            [█████████░] 99.7%          │
-│  ◆ Threat Level:                      CRITICAL 🔴                 │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
-```
+**Muhammed Camara**  
+IT Risk & Cybersecurity Engineer (Banking & Fintech Focus) · Software Developer · Penetration Tester  
+
+📍 C8mm+GJW, Tallinding, KM, The Gambia  
+📞 +220 3243033  
+📧 c3m2r4@gmail.com  
+🌐 GitHub: https://github.com/c3m2r4  
+🔗 LinkedIn: https://www.linkedin.com/in/muhammed-camara-2227352a5  
+
+> "Be the change that you want to see in the world." — Mahatma Gandhi  
 
 ---
 
-## 🧠 PROFESSIONAL SUMMARY
+## 🧠 Professional Summary
 
-Cybersecurity and IT Risk professional with hands-on experience securing **banking infrastructure**, performing **advanced penetration testing**, and integrating **security into software development lifecycles**.
+Cybersecurity and IT Risk professional with hands-on experience securing banking infrastructure, performing advanced penetration testing, and integrating security into software development lifecycles.
 
-**Specialized In:**
-- 🏦 Reducing enterprise vulnerabilities in banking environments  
-- 🔓 Securing APIs and mobile applications  
-- 🏗️ Building and managing enterprise security labs  
-- 🎯 Active Directory attack simulation & defense  
-- ⚙️ DevSecOps automation and security pipelines  
+Experienced in:
+- Reducing enterprise vulnerabilities in banking environments  
+- Securing APIs and mobile applications  
+- Building and managing enterprise security labs  
+- Active Directory attack simulation & defense  
+- DevSecOps automation and security pipelines  
 
-**Compliance Aligned:**
+Aligned with:
 **NIST | ISO 27001 | OWASP Top 10 | GDPR**
 
 ---
 
-## 🛠️ TACTICAL ARSENAL
+## 🧰 Core Skills
 
 ### 🔐 Cybersecurity & IT Risk
-```
-[▓▓▓▓▓▓▓▓▓▓] Penetration Testing (Web, Mobile, Cloud, Hardware)
-[▓▓▓▓▓▓▓▓▓░] Vulnerability Assessment & Risk Management
-[▓▓▓▓▓▓▓▓▓▓] SIEM, IDS/IPS, Security Auditing
-[▓▓▓▓▓▓▓▓▓░] API & Mobile App Security (Reverse Engineering)
-[▓▓▓▓▓▓▓▓▓░] Active Directory Security & Privilege Escalation
-[▓▓▓▓▓▓▓▓░░] Network Security & Hardening
-[▓▓▓▓▓▓▓▓░░] IT Risk Exception Tracking & Compliance
-```
+- Penetration Testing (Web, Mobile, Cloud, Hardware)
+- Vulnerability Assessment & Risk Management
+- SIEM, IDS/IPS, Security Auditing
+- API & Mobile App Security (including reverse engineering & cryptography)
+- Active Directory Security & Privilege Escalation
+- Network Security & Hardening
+- IT Risk Exception Tracking & Compliance
 
 ### 💻 Software Development
-```
-[▓▓▓▓▓▓▓▓▓░] Secure Full-Stack Development
-[▓▓▓▓▓▓▓▓▓░] REST API Design & Security
-[▓▓▓▓▓▓▓▓░░] Backend Engineering & System Architecture
-[▓▓▓▓▓▓▓▓▓░] Secure SDLC Implementation
-```
+- Secure Full-Stack Development
+- REST API Design & Security
+- Backend Engineering & System Architecture
+- Secure SDLC Implementation
 
 ---
 
-## 🖥️ TECH STACK
+## 🧰 Tools & Technologies
 
-```
-┌─ SECURITY TOOLS ─────────────────────────────────────────┐
-│ Nessus • Burp Suite • OWASP ZAP • Metasploit • MobSF    │
-│ BloodHound • CyberChef • Wireshark                       │
-└──────────────────────────────────────────────────────────┘
-
-┌─ SIEM & MONITORING ──────────────────────────────────────┐
-│ Wazuh • Security Onion • Prometheus • Grafana            │
-│ Uptime Kuma • ELK Stack                                  │
-└──────────────────────────────────────────────────────────┘
-
-┌─ DEVELOPMENT ────────────────────────────────────────────┐
-│ Laravel • Node.js • Express.js • React • PHP • Python    │
-│ JavaScript • Bash • REST APIs                            │
-└──────────────────────────────────────────────────────────┘
-
-┌─ INFRASTRUCTURE ─────────────────────────────────────────┐
-│ Linux • Windows Server • Active Directory • Docker       │
-│ Apache • Nginx • MySQL • Redis • Git                     │
-└──────────────────────────────────────────────────────────┘
-
-┌─ AI & AUTOMATION ────────────────────────────────────────┐
-│ Ollama (Local AI) • Security Automation Scripts          │
-└──────────────────────────────────────────────────────────┘
-```
+**Security:** Nessus, MobSF, Burp Suite, OWASP ZAP, Metasploit, BloodHound  
+**SIEM:** Wazuh, Security Onion  
+**Monitoring:** Prometheus, Grafana, Uptime Kuma  
+**AI:** Ollama (local AI security workflows)  
+**Dev:** Laravel, Node.js, Express.js, React, PHP, JavaScript  
+**Infra:** Linux, Windows Server, Active Directory, Apache, Nginx, MySQL, Redis  
+**Scripting:** Python, Bash  
+**DevOps:** Git, Docker (basic), REST API security testing  
 
 ---
 
-## 💼 OPERATIONAL HISTORY
+## 💼 Experience
 
 ### 🏦 IT Risk & Cybersecurity Officer  
 **Bloom Bank Africa Gambia Limited** | Mar 2025 – Present  
-```
-$ cat mission_log.txt
-✓ Conduct enterprise vulnerability assessments (70+ systems)
-✓ Reduce critical vulnerabilities through remediation tracking
-✓ Perform API & mobile application security testing
-✓ Develop System Security Plans (SSP) - ISO 27001, NIST, GDPR
-✓ Implement IT risk exception tracking & remediation workflows
-✓ Support 2FA & VAPT programs with continuous monitoring
-```
+
+- Conduct enterprise vulnerability assessments across 70+ systems  
+- Reduce critical vulnerabilities through structured remediation tracking  
+- Perform API & mobile application security testing (including reverse engineering)  
+- Develop System Security Plans (SSP) aligned with ISO 27001, NIST, GDPR  
+- Implement IT risk exception tracking and remediation workflows  
+- Support 2FA, VAPT programs, and continuous monitoring  
+
+---
 
 ### 💻 Software Developer  
 **The Web Way** | Nov 2023 – Present  
-```
-$ cat development_log.txt
-✓ Built RESTful APIs using PHP, Express.js, Laravel
-✓ Developed modern UI systems with React, Bootstrap, SASS
-✓ Implemented encryption & secure coding practices
-✓ Managed Linux production environments
-```
 
-### 🛡️ Cybersecurity Analyst  
+- Built RESTful APIs using PHP, Express.js, Laravel  
+- Developed modern UI systems using React, Bootstrap, SASS  
+- Implemented encryption & secure coding practices  
+- Managed Linux production environments  
+
+---
+
+### 🛡 Cybersecurity Analyst  
 **Gambia Cybersecurity Alliance** | Feb 2022 – Present  
-```
-$ cat security_log.txt
-✓ Conduct penetration testing & security audits
-✓ Perform vulnerability assessments & system hardening
-✓ Linux system administration & monitoring
-```
+
+- Conduct penetration testing & security audits  
+- Perform vulnerability assessments and system hardening  
+- Linux system administration & monitoring  
+
+---
 
 ### 🕵️ Freelance Penetration Tester  
 **Independent** | 2019 – Present  
-```
-$ cat pentest_log.txt
-✓ Web, mobile, cloud, and hardware penetration testing
-✓ Security reporting and remediation consulting
-```
+
+- Web, mobile, cloud, and hardware penetration testing  
+- Security reporting and remediation consulting  
+
+---
 
 ### ⚙️ DevSecOps Consultant  
 **Self-Employed** | Jan 2024 – Present  
-```
-$ cat devsecops_log.txt
-✓ Integrated security into CI/CD pipelines
-✓ Automated compliance & vulnerability scanning
-✓ Improved infrastructure security posture
-```
+
+- Integrated security into CI/CD pipelines  
+- Automated compliance & vulnerability scanning  
+- Improved infrastructure security posture  
 
 ---
 
-## 🚀 KEY PROJECTS
+## 🚀 Key Projects
 
-```
-┌─ 🔐 Mobile Banking Security Assessment ─────────────────┐
-│ Advanced security testing of banking mobile apps        │
-│ Focus: auth, encryption, permissions, reverse eng.    │
-└────────────────────────────────────────────────────────┘
-
-┌─ 🌐 Banking API Security Testing ──────────────────────┐
-│ Enterprise API penetration testing                      │
-│ Focus: injection flaws, access control, auth bypass    │
-└────────────────────────────────────────────────────────┘
-
-┌─ 🧠 Active Directory Attack Simulation Lab ────────────┐
-│ Enterprise AD environment with attack chains           │
-│ Tools: BloodHound, Mimikatz, privilege escalation     │
-└────────────────────────────────────────────────────────┘
-
-┌─ 🤖 Ollama AI Security Assistant ──────────────────────┐
-│ Offline AI-powered vulnerability analysis              │
-│ Security automation & threat intelligence              │
-└────────────────────────────────────────────────────────┘
-
-┌─ 📚 Career Development Community ──────────────────────┐
-│ https://cdcommunity.org/                               │
-└────────────────────────────────────────────────────────┘
-
-┌─ 🏢 WWCG Consulting Platform ──────────────────────────┐
-│ Enterprise secure system development                   │
-└────────────────────────────────────────────────────────┘
-```
+- 🔐 Mobile Banking Security Assessment (auth, encryption, permissions)  
+- 🌐 Banking API Security Testing (injection & access control flaws)  
+- 🧠 Active Directory Attack Simulation Lab (BloodHound analysis)  
+- 🤖 Ollama AI Security Assistant (offline vulnerability analysis)  
+- 📚 Career Development Community → https://cdcommunity.org/  
+- 🏢 WWCG Consulting Platform (enterprise secure system)  
 
 ---
 
-## 🏠 ENTERPRISE HOMELAB (CYBER RANGE)
+## 🏠 Enterprise Homelab (Cyber Range)
 
-```
-╔══════════════════════════════════════════════��═══════════════════╗
-║ 🏗️  INFRASTRUCTURE ARCHITECTURE                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  ┌─ SIEM & MONITORING LAYER ────────────────────────────┐       ║
-║  │ ◆ Wazuh Endpoint Detection & Response (EDR)          │       ║
-║  │ ◆ Security Onion IDS/IPS                             │       ║
-║  │ ◆ Prometheus Metrics Collection                      │       ║
-║  │ ◆ Grafana Dashboard Visualization                    │       ║
-║  │ ◆ Uptime Kuma Service Monitoring                     │       ║
-║  └───────────────────────────────────────────────────────┘       ║
-║                                                                  ║
-║  ┌─ ACTIVE DIRECTORY LAB ──────────────────────────────��─┐       ║
-║  │ ◆ Windows Server Enterprise Simulation                │       ║
-║  │ ◆ Privilege Escalation & Attack Paths                │       ║
-║  │ ◆ BloodHound Analysis & Visualization                │       ║
-║  │ ◆ Lateral Movement Simulation                        │       ║
-║  └───────────────────────────────────────────────────────┘       ║
-║                                                                  ║
-║  ┌─ AI SECURITY LAYER ───────────────────────────────────┐       ║
-║  │ ◆ Local Ollama Deployment (Offline LLM)             │       ║
-║  │ ◆ AI-Assisted Security Workflows                     │       ║
-║  │ ◆ Threat Intelligence Processing                     │       ║
-║  └───────────────────────────────────────────────────────┘       ║
-║                                                                  ║
-║  ┌─ INFRASTRUCTURE LAYER ──────────────────────��─────────┐       ║
-║  │ ◆ Hardened Linux Environments                        │       ║
-║  │ ◆ Secure APIs & Microservices                        │       ║
-║  │ ◆ Network Segmentation & VLANs                       │       ║
-║  │ ◆ DevSecOps Pipelines & CI/CD                        │       ║
-║  │ ◆ Docker Containerization                            │       ║
-║  └───────────────────────────────────────────────────────┘       ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+### SIEM & Monitoring
+- Wazuh endpoint monitoring  
+- Security Onion IDS  
+
+### Observability
+- Prometheus metrics  
+- Grafana dashboards  
+- Uptime Kuma monitoring  
+
+### Active Directory Lab
+- Windows Server enterprise simulation  
+- Privilege escalation & attack paths  
+- BloodHound analysis  
+
+### AI Security
+- Local Ollama deployment  
+- AI-assisted security workflows  
+
+### Infrastructure
+- Hardened Linux environments  
+- Secure APIs & network segmentation  
+- DevSecOps pipelines  
 
 ---
 
-## 🏆 HONORS & ACHIEVEMENTS
+## 🏆 Honors & Awards
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║  🥇 1ST PLACE — ECOWAS National CTF (2021, Gambia)               ║
-║     Captured the flag with expert-level exploit development       ║
-║                                                                    ║
-║  🏁 FINALIST — ECOWAS International CTF (2023, Togo)             ║
-║     Advanced to international competition level                   ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+- 🥇 1st Place — ECOWAS National CTF (2021, Gambia)  
+- 🏁 Finalist — ECOWAS International CTF (2023, Togo)  
 
 ---
 
-## 📜 CERTIFICATIONS
+## 📜 Certifications
 
-```
-▣ Google Cybersecurity Professional Certificate (2024)
-▣ Computing Science Level 4 (Completed)
-▣ Computing Science Level 5 (In Progress)
-▣ Computing Science Level 6 (Planned)
-▣ Data Science Bootcamp (2023)
-```
+- Google Cybersecurity Professional Certificate (2024)  
+- Computing Science Level 4 (Completed)  
+- Computing Science Level 5 (In Progress)  
+- Computing Science Level 6 (Planned)  
+- Data Science Bootcamp (2023)  
 
 ---
 
-## 🌍 LANGUAGES
+## 🌍 Languages
 
-```
-🇬🇧 English (Fluent)
-🇸🇳 Wolof (Native)
-🇬🇲 Mandinka (Fluent)
-```
+- English 🇬🇧  
+- Wolof 🇸🇳  
+- Mandinka 🇬🇲  
 
 ---
 
-## 📈 GITHUB ANALYTICS
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c3m2r4&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=c3m2r4&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c3m2r4&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c3m2r4&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c3m2r4&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c3m2r4&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 👁️ VISITOR MATRIX
+## 🛰️ Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=c3m2r4&label=Profile%20Views&color=00f7ff&style=flat" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=c3m2r4&label=Profile%20Views&color=00f7ff&style=flat" />
 </p>
 
 ---
 
-## 📌 PIN THESE REPOSITORIES (FOR RECRUITERS)
+## 📌 Pinned Repo Strategy (Recruiter Focus)
 
-```
-Priority: CRITICAL
-├─ 🔐 Mobile Application Security Analysis
-├─ 🌐 API Penetration Testing Toolkit
-├─ 🧠 Active Directory Attack Lab
-├─ 🤖 Security Automation (Ollama AI)
-├─ ⚙️  DevSecOps CI/CD Security Pipeline
-└─ 🏢 Enterprise Risk Dashboard
-```
+Pin these repositories:
 
----
-
-## 🎯 CLOSING PROTOCOL
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  "I don't just find vulnerabilities—                            ║
-║   I design systems that are RESILIENT against them."            ║
-║                                                                  ║
-║  Status: SYSTEM ONLINE & READY FOR OPERATION                    ║
-║  Last Updated: 2026-06-10                                       ║
-║  Security Level: MAXIMUM                                        ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+- 🔐 Mobile Application Security Analysis  
+- 🌐 API Penetration Testing Toolkit  
+- 🧠 Active Directory Attack Lab  
+- 🤖 Security Automation (Ollama AI)  
+- ⚙️ DevSecOps CI/CD Security Pipeline  
+- 🏢 Enterprise Risk Dashboard  
 
 ---
 
-**"The best cybersecurity defense is built with both technical prowess and ethical resolve."**
+## ⚡ Final Philosophy
+
+> "I don't just find vulnerabilities — I design systems that are resilient against them."
