@@ -142,12 +142,28 @@ Key focus areas:
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ===================== HERO IDENTITY LAYER ===================== -->
+<h1 align="center">🛡️ Muhammed Camara</h1>
+<h3 align="center">IT Risk • Cybersecurity Engineer • Penetration Tester</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c3m2r4&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Engineer-00f7ff?style=for-the-badge&logo=hack-the-box&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Red%20Team-Operations-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Banking%20Security-Enterprise-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Mission Telemetry Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c3m2r4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c3m2r4&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
+---
+
+## 📡 Security Activity Stream
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=c3m2r4&theme=tokyonight&hide_border=true"/>
@@ -155,20 +171,32 @@ Key focus areas:
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Threat & Contribution Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c3m2r4&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c3m2r4&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c3m2r4&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c3m2r4&theme=tokyonight&utcOffset=0"/>
 </p>
 
 ---
 
-## 👁️ Profile Views
+## 🛰️ Live Engineering Pulse
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=c3m2r4&style=for-the-badge&color=00f7ff"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c3m2r4&theme=tokyo-night&hide_border=true&area=true&radius=12"/>
 </p>
 
+---
+
+## 👁️ System Visibility
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=c3m2r4&label=ACCESS%20LOGS&color=00f7ff&style=for-the-badge"/>
+</p>
 ---
 
 ## ⚡ Philosophy
