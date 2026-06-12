@@ -209,10 +209,12 @@ Aligned with:
 
 ---
 
-## 📊 GitHub Stats
+<!-- ===================== GITHUB STATS DASHBOARD ===================== -->
+<h2 align="center">📊 GitHub Analytics Dashboard</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c3m2r4&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=c3m2r4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c3m2r4&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -220,15 +222,28 @@ Aligned with:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c3m2r4&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c3m2r4&theme=tokyo-night&hide_border=true&area=true&radius=10" />
 </p>
 
 ---
 
-## 🛰️ Visitor Counter
+## 🧠 Performance Overview
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=c3m2r4&label=Profile%20Views&color=00f7ff&style=flat" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c3m2r4&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c3m2r4&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c3m2r4&theme=tokyonight&utcOffset=0" />
+</p>
+
+---
+
+## 🛰️ Live Profile Telemetry
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=c3m2r4&label=PROFILE%20VIEWS&color=00f7ff&style=for-the-badge" />
 </p>
 
 ---
