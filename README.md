@@ -20,7 +20,7 @@ IT Risk & Cybersecurity Engineer (Banking & Fintech Focus) · Software Developer
 
 📍 Tallinding, The Gambia  
 📧 c3m2r4@gmail.com  
-🔗 [GitHub](https://github.com/c3m2r4) · [LinkedIn](https://www.linkedin.com/in/muhammed-camara-2227352a5)  
+🔗 [GitHub](https://c3m2r4.github.io/camara/camara.html) · [LinkedIn](https://www.linkedin.com/in/muhammed-camara-2227352a5)  
 
 ---
 
