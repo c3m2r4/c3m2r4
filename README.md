@@ -117,6 +117,7 @@ An interactive professional portfolio of cybersecurity engineering, IT risk, and
 <p>
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
   <img src="https://img.shields.io/badge/Security_Onion-2D2D2D?style=for-the-badge" alt="Security Onion" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
   <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge" alt="Suricata" />
   <img src="https://img.shields.io/badge/Zeek-1D4ED8?style=for-the-badge" alt="Zeek" />
   <img src="https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
