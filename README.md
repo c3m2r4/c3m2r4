@@ -9,6 +9,7 @@
 <br />
 
 <a href="https://www.linkedin.com/in/muhammed-camara-2227352a5"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://muhammed-camara.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit portfolio" /></a>
 <a href="mailto:c3m2r4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=c3m2r4&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" alt="Profile views" />
 
@@ -24,6 +25,18 @@ I am an IT Risk and Cybersecurity Engineer based in The Gambia, focused on the s
 - 🏦 Improving vulnerability management, remediation, and security assurance
 - ⚙️ Building secure applications and DevSecOps automation
 - 📚 Working with ISO 27001, NIST, and OWASP-aligned controls
+
+## Featured Portfolio
+
+### [Muhammed Camara — Cybersecurity Portfolio ↗](https://muhammed-camara.netlify.app/)
+
+An interactive professional portfolio of cybersecurity engineering, IT risk, and secure-development work.
+
+- **Banking & fintech security** — enterprise vulnerability assessment, risk remediation, API security testing, and mobile banking assessments.
+- **Offensive security labs** — Active Directory attack simulations, BloodHound analysis, and practical penetration-testing research.
+- **Security operations & automation** — Wazuh, Security Onion, Prometheus, Grafana, and local AI-assisted workflows using Ollama.
+
+[![Explore the portfolio](https://img.shields.io/badge/Explore_the_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://muhammed-camara.netlify.app/)
 
 ## Focus Areas
 
