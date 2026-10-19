@@ -107,7 +107,7 @@ I am an IT Risk and Cybersecurity Engineer based in The Gambia, focused on the s
 
 ### Contribution Activity
 
-![Animated contribution snake](https://raw.githubusercontent.com/c3m2r4/c3m2r4/output/github-contribution-grid-snake.svg)
+![Animated contribution snake](https://github.com/c3m2r4/c3m2r4/raw/refs/heads/output/github-contribution-grid-snake.svg)
 
 ---
 
