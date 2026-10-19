@@ -74,15 +74,28 @@ I am an IT Risk and Cybersecurity Engineer based in The Gambia, focused on the s
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
 </p>
 
-### Security & Monitoring
+### Offensive Security & Assessment
 
 <p>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
   <img src="https://img.shields.io/badge/Nessus-00A1E0?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
+  <img src="https://img.shields.io/badge/Greenbone_%2F_OpenVAS-00A98F?style=for-the-badge" alt="Greenbone and OpenVAS" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Mythic_C2-6D28D9?style=for-the-badge" alt="Mythic C2" />
+  <img src="https://img.shields.io/badge/BloodHound-EA4335?style=for-the-badge" alt="BloodHound" />
+</p>
+
+### Detection, Response & Monitoring
+
+<p>
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
   <img src="https://img.shields.io/badge/Security_Onion-2D2D2D?style=for-the-badge" alt="Security Onion" />
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge" alt="Suricata" />
+  <img src="https://img.shields.io/badge/Zeek-1D4ED8?style=for-the-badge" alt="Zeek" />
+  <img src="https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
 </p>
 
 ## Currently Building
