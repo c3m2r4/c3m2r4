@@ -88,6 +88,17 @@ I am an IT Risk and Cybersecurity Engineer based in The Gambia, focused on the s
   <img src="https://img.shields.io/badge/BloodHound-EA4335?style=for-the-badge" alt="BloodHound" />
 </p>
 
+### Mobile Application Pentesting
+
+<p>
+  <img src="https://img.shields.io/badge/MobSF-2C3E50?style=for-the-badge" alt="Mobile Security Framework" />
+  <img src="https://img.shields.io/badge/Frida-1E88E5?style=for-the-badge" alt="Frida" />
+  <img src="https://img.shields.io/badge/Objection-7C3AED?style=for-the-badge" alt="Objection" />
+  <img src="https://img.shields.io/badge/JADX-FF6F00?style=for-the-badge" alt="JADX" />
+  <img src="https://img.shields.io/badge/apktool-3F51B5?style=for-the-badge" alt="apktool" />
+  <img src="https://img.shields.io/badge/Android_Debug_Bridge-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Debug Bridge" />
+</p>
+
 ### Detection, Response & Monitoring
 
 <p>
